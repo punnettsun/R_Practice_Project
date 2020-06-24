@@ -15,7 +15,7 @@ library(stringr)
 
 # Change working directory 
 setwd("/Users/punitsundar/Documents/Summer_2020/R_Practice/R_Practice_Project")
-data <- read.csv("covid19data.csv", header = TRUE,sep = ",")
+data <- read.csv("Data/covid19data.csv", header = TRUE,sep = ",")
 
 # Removes all rows that have any number of NA's in them
 na_data <- na.omit(data)  
