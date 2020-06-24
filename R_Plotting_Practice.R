@@ -1,3 +1,10 @@
+# R_Plotting_Practice.R
+# Author: Punit Sundar
+# Last Updated: June 24, 2020
+# Purpose: Using the given COVID19 csv file, practice using R.
+# Goal: To create an R GUI for COVID19 data
+
+
 # Packages & libraries
 install.packages("ggplot2")
 install.packages("tidyverse")
