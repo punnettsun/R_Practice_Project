@@ -9,5 +9,5 @@ Sacramento                 |  Fresno
 
 LA               |
 :---------------:|
-<img width="469" alt="LA" src="https://user-images.githubusercontent.com/30707159/85637012-e2560980-b636-11ea-9742-aceb338434c0.png">
+<img width="450" alt="LA" src="https://user-images.githubusercontent.com/30707159/85637012-e2560980-b636-11ea-9742-aceb338434c0.png">
 
