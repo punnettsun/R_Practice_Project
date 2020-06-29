@@ -1,6 +1,7 @@
 # R_Practice_Project
 ### Use given data to practice R 
 Data obtained are state-wide(CA) daily inventory of hospital status aggregated at the county level. 
+Make sure directory in R code is changed for user.
 
 Examples of output:
 Sacramento                 |  Fresno
